@@ -1,1 +1,1 @@
-Website Link: https://github.com/powlectro/gamera-website/settings/pages
+Website Link: https://powlectro.github.io/gamera-website/
