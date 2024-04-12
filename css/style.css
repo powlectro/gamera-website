@@ -892,6 +892,15 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 30px 0 0 0;
 }
 
+#team .row {
+    display: flex;
+    justify-content: center;
+}
+
+#team .col-lg-3.col-md-6 {
+    margin: 0 15px;  /* This adds space around the columns */
+}
+
 #team .member {
   text-align: center;
   margin-bottom: 20px;
